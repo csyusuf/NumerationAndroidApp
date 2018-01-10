@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Numeration</string>
+    <string name="action_settings">Settings</string>
+    <string name="category_name">Name</string>
+    <string name="save_button">Save</string>
+    <string name="activity_name">Name</string>
+    <string name="activity_title">New Activity</string>
+    <string name="category_type">Category</string>
+    <string name="category_title">Category</string>
+    <string name="progress_label">Progress</string>
+    <string name="date_label">Date</string>
+    <string name="tv_last_seven_days">Last 7 days</string>
+    <string name="btn_get_report">Get Report</string>
+    <string name="counting_type">Counting Type</string>
+    <string name="hint_counting_type">Page, Hour, Min</string>
+
+    <string name="category_insert_success">Category has been created successfully</string>
+    <string name="category_insert_failure">Category couldn\'t  created!</string>
+</resources>
